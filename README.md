@@ -1,12 +1,5 @@
 # InterviewBit
-This repository is a collection of my gists (***working*** :white_check_mark: code snippets passing all test cases on the 
-[InterviewBit online judge](https://www.interviewbit.com/courses/programming/)) solutions in the absolutely fantastic 
-language, C++. 
-
-***Edit:*** I've lately moved to Java hence trying to re-solve all the problems slowly and adding my Java solutions to this repo as well!
-
-Hence, the solutions won't directly execute on your local IDE or compiler, the main() would need to be written and the 
-solution's function would need to be invoked with appropriate inputs/test cases to run in standalone.
+This repository is a collection of my gists solutions in C++ language. 
 
 ## Notes:
 - Sometimes, multiple solutions/approaches have been provided with relevant comments in the solution file, 
@@ -21,11 +14,10 @@ to optimize even at the slightest visible portions of the code.
 - *The code in this repo is completely original content and written by me.* If you like what you see, don't forget to show your liking by :star:ing this repo.
 
 ## How to contribute?
-1. Fork the repository :fork_and_knife:
-2. Do the desired changes (add/delete/modify) :pencil2:
-3. Make sure you've followed the existing coding standards and pattern of pasting the entire problem statement with a link to the problem on [InterviewBit](https://www.interviewbit.com). For reference, you can follow any existing file in this Repo. e.g. [AddOneToNumber.cpp](https://github.com/cruxrebels/InterviewBit/blob/master/Arrays/AddOneToNumber.cpp)
-4. Attach a screenshot from [InterviewBit](https://www.interviewbit.com) showing that your solution was ACCEPTED by the online judge. I've been getting a lot of pull requests which are not Accepted by the online judge.
-3. Make a pull request :shipit:
+1. Fork the repository 
+2. Do the desired changes (add/delete/modify) 
+3. Make sure you've followed the existing coding standards and pattern of pasting the entire problem statement with a link to the problem on [InterviewBit]
+4. Make a pull request 
 
 ## When should you contribute?
 - If your solution's time complexity :alarm_clock: is better than the solution already present *or*,
